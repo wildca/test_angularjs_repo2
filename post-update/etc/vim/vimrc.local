@@ -1,0 +1,8 @@
+syntax on
+set background=dark
+set showmatch
+set ignorecase
+set smartcase
+set mouse=a
+set modeline
+set hlsearch
